@@ -68,8 +68,10 @@ Analyze customer purchasing trends.
 Evaluate brand and model performance.
 Understand payment behavior.
 Support data-driven decision making.
-Dashboard Preview
-<img width="100%" alt="Mobile Sales Dashboard" src="Dashboard_Screenshot.png">
+
+# Dashboard Preview
+![Uploading Screenshot 2026-06-11 150628.png…]()
+
 
 ## Skills Demonstrated
 
