@@ -70,7 +70,7 @@ Understand payment behavior.
 Support data-driven decision making.
 
 # Dashboard Preview
-![Uploading Screenshot 2026-06-11 150628.png…]()
+<img width="1121" height="628" alt="Screenshot 2026-06-11 150628" src="https://github.com/user-attachments/assets/25d42ac8-0c99-4fd8-9805-9ad3ce1844df" />
 
 
 ## Skills Demonstrated
